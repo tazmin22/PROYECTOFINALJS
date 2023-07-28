@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "titulo": "Moschino Toy 2 Bubble Gum EDT",
+      "imagen": "./IMG/moschino2.webp",
+      "descripcion": "Toy 2 se tiñe de un rosa moderno y elegante con notas divertidas y lúdicas. Definida como una fragancia Floral frutal oriental",
+      "precio": " 5500"
+    },
+  
+    {
+      "id": 2,
+      "titulo": "FAME EDP",
+      "imagen": "./IMG/Fameedp.webp",
+      "descripcion": "Capturando el irresistible espíritu parisino de la mujer Rabanne, Fame rinde homenaje a una nueva era de feminidad.",
+      "precio": " 2700"
+    },
+    {
+      "id": 3,
+      "titulo": "La Vie est Belle",
+      "imagen": "./IMG/La_Vie_est_Belle.webp",
+      "descripcion": "La Vie est Belle es una declaración universal de la belleza de la vida ",
+      "precio": " 4500"
+    },
+    {
+      "id": 4,
+      "titulo": "MY WAY EDP",
+      "imagen": "./IMG/my_way.webp",
+      "descripcion": "Descubre la nueva fragancia femenina de Giorgio Armani, My Way",
+      "precio": " 19450"
+    },
+    {
+      "id": 5,
+      "titulo": "Pink Fresh Couture EDT",
+      "imagen": "./IMG/pink-fresh.webp",
+      "descripcion": "Fresh Couture Pink, versión de la exitosa Fresh Couture,se caracteriza por un aroma más jugoso y delicado que su predecesora, aunque sigue manteniendo ese enfoque innovador y transgresor ",
+      "precio": " 30.000"
+    },
+    {
+      "id": 6,
+      "titulo": "ARMANI STRONGER WITH YOU INTENSELY EDP",
+      "imagen": "./IMG/stronge.webp",
+      "descripcion": "La Vie est Belle es una declaración universal de la belleza de la vida ",
+      "precio": " 39.000"
+    },
+    {
+      "id": 7,
+      "titulo": "YVES SAINT LAURENT BLACK OPIUM EDP",
+      "imagen": "./IMG/YVES.webp",
+      "descripcion": "Atrevete a probar el perfume adictivo y sensual de Yves Saint Laurenty preparate para rockear toda la noche. Liberá tus sentidos y desafía todas las reglas en la oscuridad de la noche. ",
+      "precio": " 25.000"
+    },
+    {
+      "id": 8,
+      "titulo": "CACHAREL YES I AM DELICIOUS EDP",
+      "imagen": "./IMG/cacharel.webp",
+      "descripcion": " La nueva fragancia del amor propioy la última incorporación a la Colección Yes I Am ",
+      "precio": " 4.500"
+    },
+    {
+      "id": 9,
+      "titulo": "DIOR MISS DIOR EDP",
+      "imagen": "./IMG/dior.webp",
+      "descripcion": "Miss Dior Eau de Parfum se reinventa con una nueva estela ",
+      "precio": " 60.000"
+    }
+  
+  ]
+  
